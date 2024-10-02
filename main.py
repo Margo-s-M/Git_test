@@ -3,3 +3,7 @@ def hi():
 
 def w():
     print("ff")
+
+def weather():
+    print("Sun")
+
