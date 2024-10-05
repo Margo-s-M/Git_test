@@ -7,3 +7,6 @@ def w():
 def weather():
     print("Sun")
 
+def friend():
+    print("pay func")
+
